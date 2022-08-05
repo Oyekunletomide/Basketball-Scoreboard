@@ -1,0 +1,87 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(CursedTimerULiL.woff);
+}
+body {
+    margin: 0;
+}
+
+
+.container1 {
+    display: flex;
+    justify-content: space-around;
+    
+    color: white;
+    font-weight: bold;
+}
+#background {
+    background-color: #1B244A;
+    border-radius: 20px;
+}
+h3 {
+    font-family: Verdana;
+    margin-top: 68px;
+    height: 36px;
+    width: 149px;
+    font-size: 40px;
+    font-style: normal;
+    margin-left: 108px
+}
+#container2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 21px;
+}
+.score {
+    background-color: #080001;
+    margin-bottom: 40px;
+    width: 155px;
+    height: 120px;
+    margin-left: 100px;
+}
+p {
+    
+    color: #F94F6D;
+    width: 117px;
+    height: 120px;
+    font-family: myFirstFont;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px; 
+    text-align: center; 
+    margin-top: 0;
+    margin-bottom: 0px;
+    margin-left: 18px;
+    margin-right: 20px;
+}
+#container3 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 21px;
+    
+}
+.btn {
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    margin-top: 26px;
+    font-family: myFirstFont;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    margin-left: 9px;
+    
+}
+.button {
+    margin-left: 90px;
+    
+}
+
+
+
+
